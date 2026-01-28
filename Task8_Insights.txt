@@ -1,0 +1,10 @@
+3 Key Insights:
+1. Customer Concentration & Revenue Distribution
+A small percentage of customers likely generate a large portion of total revenue (classic 80/20 rule)
+Action: Implement customer segmentation - focus retention efforts on high-value customers and upsell opportunities to medium-tier customers to increase their lifetime value
+2. Regional Performance Disparities
+Different regions show varying profitability margins despite similar sales volumes
+Action: Investigate operational efficiency differences between regions - the region with lower profit margins may have higher shipping costs, discounts, or operational inefficiencies that need optimization
+3. Seasonal & Monthly Patterns
+Month-over-month growth shows volatility, indicating seasonal demand fluctuations
+Action: Plan inventory and staffing based on seasonal peaks and troughs; implement promotional campaigns during low-growth months to smooth revenue
